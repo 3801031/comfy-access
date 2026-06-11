@@ -1,6 +1,9 @@
 {
   "enabled": true,
   "min_version": "1.0.0",
-  "allowed_key_hashes": [],
+  "allowed_key_hashes": [
+    "28e5d07aa7f798176e678f142279cf386e39a4dca3f2eb9daccf57f54380a964",
+    "fb3268dd955026cb68ab77ccbc0f4363e9af42d1d89c8bf51126eb65671d22e1"
+  ],
   "message": "OK"
 }
